@@ -1,0 +1,12 @@
+﻿  AVLtree.cpp
+C:\Users\Дмитрий\source\repos\aisd6pract\aisd6pract\AVLtree.h(8,18): warning C4244: инициализация: преобразование "double" в "const int", возможна потеря данных
+C:\Users\Дмитрий\source\repos\aisd6pract\aisd6pract\AVLtree.cpp(328,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\aisd6pract\aisd6pract\AVLtree.cpp(404,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\aisd6pract\aisd6pract\AVLtree.cpp(404,47): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Дмитрий\source\repos\aisd6pract\aisd6pract\AVLtree.cpp(413,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Дмитрий\source\repos\aisd6pract\aisd6pract\AVLtree.cpp(454,17): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Дмитрий\source\repos\aisd6pract\aisd6pract\AVLtree.cpp(456,13): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\aisd6pract\aisd6pract\AVLtree.cpp(465,15): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Дмитрий\source\repos\aisd6pract\aisd6pract\AVLtree.cpp(552,32): warning C4101: bufTree3: неиспользованная локальная переменная
+C:\Users\Дмитрий\source\repos\aisd6pract\aisd6pract\AVLtree.cpp(686,34): warning C4101: err: неиспользованная локальная переменная
+  aisd6pract.vcxproj -> C:\Users\Дмитрий\source\repos\aisd6pract\x64\Debug\aisd6pract.exe
